@@ -7,9 +7,9 @@ import (
 
 	"os"
 
-	"github.com/mpolden/echoip/http"
-	"github.com/mpolden/echoip/iputil"
-	"github.com/mpolden/echoip/iputil/geo"
+	"github.com/rootmos/echoip/http"
+	"github.com/rootmos/echoip/iputil"
+	"github.com/rootmos/echoip/iputil/geo"
 )
 
 type multiValueFlag []string
